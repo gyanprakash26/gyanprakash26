@@ -7,7 +7,7 @@
 
 ## 🔥 About Me
 
-- 🔭 Currently working as DevOps Engineer at Flexsin  
+- 🔭 Currently working as Software Engineer (Backend & DevOps) at Flexsin  
 - ☁️ Skilled in AWS, Docker, Kubernetes, CI/CD  
 - 🧠 Strong backend foundation (Node.js, Microservices)  
 - ⚡ Passionate about automation, scalability & system reliability  
