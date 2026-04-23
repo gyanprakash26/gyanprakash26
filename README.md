@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gyan Prakash Singh
 
-🚀 DevOps Engineer | Cloud & Automation Enthusiast  
+🚀 Backend Engineer | Cloud & Automation Enthusiast  
 💡 Building scalable systems with DevOps + Backend expertise  
 
 ---
